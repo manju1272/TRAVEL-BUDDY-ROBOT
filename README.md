@@ -20,8 +20,8 @@ The Bot is majorly created to enter the user data automatically in the website l
 
 TECHNOLOGY STACK:
 
-*UiPath Platform
-*Web Automation
-*Web Scraping Tools
-*Excel or CSV Files
-*Email Services
+UiPath Platform
+Web Automation
+Web Scraping Tools
+Excel or CSV Files
+Email Services
